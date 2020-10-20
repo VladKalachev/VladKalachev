@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Vlad
 
+![](https://komarev.com/ghpvc/?username=VladKalachev)
+
 ## I'm a FrontEnd Developer, and Teacher
 - 💪 I like to write code
 - 🎉 I love to paint and play the guitar
@@ -37,11 +39,6 @@
 
 ### My YouTube Videos:
 <!-- YOUTUBE:START -->
-- [Учим useRef за 7 минут - React Hooks](https://www.youtube.com/watch?v=rUGDM7MaRvk)
-- [Учим useMemo за 10 минут - React Hooks](https://www.youtube.com/watch?v=cLGHxUenVrw)
-- [Учим Fetch API за 10 минут](https://www.youtube.com/watch?v=dyTmhq9nc6o)
-- [Учимся кодить на JavaScript. Типы данных.](https://www.youtube.com/watch?v=LIUcnZD8JPs)
-- [Учим useEffect за 13 минут - React Hooks](https://www.youtube.com/watch?v=TfYFxoAmtVs)
 <!-- YOUTUBE:END -->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VladKalachev)
