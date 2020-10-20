@@ -44,9 +44,9 @@
 - [Учим useEffect за 13 минут - React Hooks](https://www.youtube.com/watch?v=TfYFxoAmtVs)
 <!-- YOUTUBE:END -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VladKalachev)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VladKalachev)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&layout=compact)
 
 [website]: https://webtricks-master.ru/
 [youtube]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
