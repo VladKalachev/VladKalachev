@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Vlad
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
-
 ## I'm a FrontEnd Developer, and Teacher
 - 💪 I like to write code
 - 🎉 I love to paint and play the guitar
@@ -35,20 +33,15 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Учим useMemo на примерах](https://webtricks-master.ru/reactjs/uchim-usememo-na-primerah/)
-- [Учимся кодить на JavaScript. Замыкание](https://webtricks-master.ru/javascript/uchimsya-kodit-na-javascript-zamykanie/)
-- [Что такое Local Storage, Session Storage и Cookie?](https://webtricks-master.ru/javascript/chto-takoe-local-storage-session-storage-i-cookie/)
-- [Учимся кодить на JavaScript. Операторы Spread и Rest](https://webtricks-master.ru/javascript/uchimsya-kodit-na-javascript-operatory-spread-i-rest/)
-- [Учимся кодить на JavaScript. Методы массивов.](https://webtricks-master.ru/javascript/uchim-javascript-metody-massivov/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My YouTube Videos:
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VladKalachev)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VladKalachev)]
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&layout=compact)]
 
 [website]: https://webtricks-master.ru/
 [youtube]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
