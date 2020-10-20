@@ -31,6 +31,10 @@
 <br />
 <br />
 
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://webtricks-master.ru/
 [youtube]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
 [linkedin]: https://www.linkedin.com/in/vlad-kalachev-ab87b312a/
