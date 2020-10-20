@@ -31,7 +31,7 @@
 <br />
 <br />
 
-### Blog posts
+### Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Учим useMemo на примерах](https://webtricks-master.ru/reactjs/uchim-usememo-na-primerah/)
 - [Учимся кодить на JavaScript. Замыкание](https://webtricks-master.ru/javascript/uchimsya-kodit-na-javascript-zamykanie/)
