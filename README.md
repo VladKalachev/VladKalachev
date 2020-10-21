@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Vlad
 
+![](https://komarev.com/ghpvc/?username=VladKalachev)
+
 ## I'm a FrontEnd Developer, and Teacher
 - 💪 I like to write code
 - 🎉 I love to paint and play the guitar
@@ -49,9 +51,12 @@
 - [Учим useEffect за 13 минут - React Hooks](https://www.youtube.com/watch?v=TfYFxoAmtVs)
 <!-- YOUTUBE:END -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VladKalachev)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&layout=compact)
+<details>
+  <summary>:zap: Statistics:</summary>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&langs_count=8&layout=compact" />
+    <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
+</details>
 
 [website]: https://webtricks-master.ru/
 [youtube]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
