@@ -35,11 +35,11 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Учим useRef на примерах](https://webtricks-master.ru/reactjs/uchim-useref-na-primerah/)
 - [Учим useMemo на примерах](https://webtricks-master.ru/reactjs/uchim-usememo-na-primerah/)
 - [Учимся кодить на JavaScript. Замыкание](https://webtricks-master.ru/javascript/uchimsya-kodit-na-javascript-zamykanie/)
 - [Что такое Local Storage, Session Storage и Cookie?](https://webtricks-master.ru/javascript/chto-takoe-local-storage-session-storage-i-cookie/)
 - [Учимся кодить на JavaScript. Операторы Spread и Rest](https://webtricks-master.ru/javascript/uchimsya-kodit-na-javascript-operatory-spread-i-rest/)
-- [Учимся кодить на JavaScript. Методы массивов.](https://webtricks-master.ru/javascript/uchim-javascript-metody-massivov/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My YouTube Videos:
