@@ -35,11 +35,11 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Учим useContext на примерах — React Hooks](https://webtricks-master.ru/reactjs/uchim-usecontext-na-primerah/)
 - [Profile README для вашего GitHub профиля](https://webtricks-master.ru/frontend/profile-readme-dlya-vashego-github-profilya/)
 - [Учим useRef на примерах — React Hooks](https://webtricks-master.ru/reactjs/uchim-useref-na-primerah/)
 - [Учим useMemo на примерах — React Hooks](https://webtricks-master.ru/reactjs/uchim-usememo-na-primerah/)
 - [Учимся кодить на JavaScript. Замыкание](https://webtricks-master.ru/javascript/uchimsya-kodit-na-javascript-zamykanie/)
-- [Что такое Local Storage, Session Storage и Cookie?](https://webtricks-master.ru/javascript/chto-takoe-local-storage-session-storage-i-cookie/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My YouTube Videos:
