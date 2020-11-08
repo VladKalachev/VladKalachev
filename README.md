@@ -35,11 +35,11 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Что должен знать junior frontend разработчик?](https://webtricks-master.ru/beginners/chto-dolzhen-znat-junior-frontend-razrabotchik/)
 - [Учим useContext на примерах — React Hooks](https://webtricks-master.ru/reactjs/uchim-usecontext-na-primerah/)
 - [Profile README для вашего GitHub профиля](https://webtricks-master.ru/frontend/profile-readme-dlya-vashego-github-profilya/)
 - [Учим useRef на примерах — React Hooks](https://webtricks-master.ru/reactjs/uchim-useref-na-primerah/)
 - [Учим useMemo на примерах — React Hooks](https://webtricks-master.ru/reactjs/uchim-usememo-na-primerah/)
-- [Учимся кодить на JavaScript. Замыкание](https://webtricks-master.ru/javascript/uchimsya-kodit-na-javascript-zamykanie/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My YouTube Videos:
