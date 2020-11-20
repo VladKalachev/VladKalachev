@@ -44,11 +44,11 @@
 
 ### My YouTube Videos:
 <!-- YOUTUBE:START -->
+- [Как быстро сделать слайдер фотографий на чистом JavaScript? Пишем свой плагин карусель на JavaScript](https://www.youtube.com/watch?v=mXRUmlmlxYA)
 - [Обзор VSCode Stories. Плагины VSCode](https://www.youtube.com/watch?v=Z4gFs6kiKJY)
 - [Что должен знать junior front-end разработчик? Как стать front-end разработчиком?](https://www.youtube.com/watch?v=HgamTABSL04)
 - [Учим useContext за 10 минут - React Hooks. Вся база React Context API](https://www.youtube.com/watch?v=8Lt2HUhGKiU)
 - [GitHub profile README. Прокачай свой GitHub профиль!](https://www.youtube.com/watch?v=O8knJcn5b-w)
-- [Учим useRef за 7 минут - React Hooks](https://www.youtube.com/watch?v=rUGDM7MaRvk)
 <!-- YOUTUBE:END -->
 
 <details>
