@@ -44,11 +44,11 @@
 
 ### My YouTube Videos:
 <!-- YOUTUBE:START -->
+- [Быстрое создание ГАМБУРГЕР меню на jQuery / HTML / CSS](https://www.youtube.com/watch?v=ARHmd_rtlQs)
 - [Создание МЕНЮ на чистом CSS / HTML](https://www.youtube.com/watch?v=XPzmdkZzWgA)
 - [Как быстро сделать слайдер фотографий на чистом JavaScript? Пишем свой плагин карусель на JavaScript](https://www.youtube.com/watch?v=mXRUmlmlxYA)
 - [Обзор VSCode Stories. Плагины VSCode](https://www.youtube.com/watch?v=Z4gFs6kiKJY)
 - [Что должен знать junior front-end разработчик? Как стать front-end разработчиком?](https://www.youtube.com/watch?v=HgamTABSL04)
-- [Учим useContext за 10 минут - React Hooks. Вся база React Context API](https://www.youtube.com/watch?v=8Lt2HUhGKiU)
 <!-- YOUTUBE:END -->
 
 <details>
