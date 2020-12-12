@@ -35,11 +35,11 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Пишем свой middleware для Redux](https://webtricks-master.ru/reactjs/pishem-svoj-middleware-dlya-redux/)
 - [Учим useLayoutEffect на примерах. Отличие хука useEffect от useLayoutEffect? — React Hooks](https://webtricks-master.ru/react-hooks/uchim-uselayouteffect-na-primerah-otlichie-huka-useeffect-ot-uselayouteffect-react-hooks/)
 - [Учим useCallback на примерах — React Hooks](https://webtricks-master.ru/react-hooks/uchim-usecallback-na-primerah-react-hooks/)
 - [Учим useReducer на примерах — React Hooks](https://webtricks-master.ru/react-hooks/uchim-usereducer-na-primerah-react-hooks/)
 - [Что нового в Webpack 5?](https://webtricks-master.ru/novosti-it/chto-novogo-v-webpack-5/)
-- [Что должен знать junior front-end разработчик?](https://webtricks-master.ru/beginners/chto-dolzhen-znat-junior-frontend-razrabotchik/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My YouTube Videos:
