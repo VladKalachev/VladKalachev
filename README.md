@@ -35,11 +35,11 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Как подключить Sass к React?](https://webtricks-master.ru/beginners/kak-podklyuchit-sass-k-react/)
 - [Обзор VSCode Stories. Плагины Visual Studio Code](https://webtricks-master.ru/novosti-it/obzor-vscode-stories-plaginy-visual-studio-code/)
 - [Пишем свой middleware для Redux](https://webtricks-master.ru/reactjs/pishem-svoj-middleware-dlya-redux/)
 - [Учим useLayoutEffect на примерах. Отличие хука useEffect от useLayoutEffect? — React Hooks](https://webtricks-master.ru/react-hooks/uchim-uselayouteffect-na-primerah-otlichie-huka-useeffect-ot-uselayouteffect-react-hooks/)
 - [Учим useCallback на примерах — React Hooks](https://webtricks-master.ru/react-hooks/uchim-usecallback-na-primerah-react-hooks/)
-- [Учим useReducer на примерах — React Hooks](https://webtricks-master.ru/react-hooks/uchim-usereducer-na-primerah-react-hooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My YouTube Videos:
