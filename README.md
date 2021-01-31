@@ -44,11 +44,11 @@
 
 ### My YouTube Videos:
 <!-- YOUTUBE:START -->
+- [Как найти работу джуну без опыта? пошаговая инструкция](https://www.youtube.com/watch?v=DzyKrIBHln8)
 - [Пишем список задач на React (React Hooks)](https://www.youtube.com/watch?v=XwIiBXZ41Os)
 - [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme - React Hooks](https://www.youtube.com/watch?v=VFefv_YSGfY)
 - [Учим useLayoutEffect за 6 минут - React Hooks](https://www.youtube.com/watch?v=KaaH6cra2lo)
 - [Учим useCallback за 7 минут - React Hooks](https://www.youtube.com/watch?v=AqCkWH4ws1Y)
-- [Как подключить sass к react?](https://www.youtube.com/watch?v=2MDpClJ7Z2o)
 <!-- YOUTUBE:END -->
 
 <details>
