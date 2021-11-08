@@ -45,7 +45,7 @@
 ### My YouTube Videos:
 <!-- YOUTUBE:START -->
 - [Как найти работу джуну без опыта? пошаговая инструкция](https://www.youtube.com/watch?v=DzyKrIBHln8)
-- [Пишем список задач на React (React Hooks)](https://www.youtube.com/watch?v=XwIiBXZ41Os)
+- [Пишем список задач на React &lpar;React Hooks&rpar;](https://www.youtube.com/watch?v=XwIiBXZ41Os)
 - [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme - React Hooks](https://www.youtube.com/watch?v=VFefv_YSGfY)
 - [Учим useLayoutEffect за 6 минут - React Hooks](https://www.youtube.com/watch?v=KaaH6cra2lo)
 - [Учим useCallback за 7 минут - React Hooks](https://www.youtube.com/watch?v=AqCkWH4ws1Y)
