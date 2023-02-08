@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Vlad
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
-
    <p align="left">
       <a href="https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w?view_as=subscriber">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCkvd2R7fmbs1watlJ6wur_w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630%22/"/></a> 
