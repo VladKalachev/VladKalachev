@@ -37,34 +37,6 @@
 <br />
 <br />
 
-### Connect with me:
-
-[<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="VladKalachev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-
-<br />
-
-### Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Claude Code для фронтендера: полный гайд по работе в терминале](https://webtricks-master.ru/frontend/claude-code-frontend-terminal-guide/)
-- [Браузеры будущего: что нас ждёт в 2026](https://webtricks-master.ru/frontend/brauzery-budushhego-chto-nas-zhdyot-v-2026/)
-- [Micro-frontend архитектура: когда она действительно нужна?](https://webtricks-master.ru/frontend/micro-frontend-arhitektura-kogda-ona-dejstvitelno-nuzhna/)
-- [Edge-рендеринг: стоит ли переходить на серверные технологии?](https://webtricks-master.ru/frontend/edge-rendering-stoit-li-perehodit-na-servernye-tehnologii/)
-- [Как создать свою библиотеку и продвигать её?](https://webtricks-master.ru/frontend/kak-sozdat-svoyu-biblioteku-i-prodvigat-eyo/)
-<!-- BLOG-POST-LIST:END -->
-
-### My YouTube Videos:
-<!-- YOUTUBE:START -->
-- [Как найти работу джуну без опыта? пошаговая инструкция](https://www.youtube.com/watch?v=DzyKrIBHln8)
-- [Пишем список задач на React &lpar;React Hooks&rpar;](https://www.youtube.com/watch?v=XwIiBXZ41Os)
-- [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme - React Hooks](https://www.youtube.com/watch?v=VFefv_YSGfY)
-- [Учим useLayoutEffect за 6 минут - React Hooks](https://www.youtube.com/watch?v=KaaH6cra2lo)
-- [Учим useCallback за 7 минут - React Hooks](https://www.youtube.com/watch?v=AqCkWH4ws1Y)
-<!-- YOUTUBE:END -->
-
 ### My Projects:
 - [webtricks-master.ru](https://webtricks-master.ru/) — my blog about frontend development
 
@@ -87,12 +59,38 @@
   </tr>
 </table>
 
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
-</details>
+### Blog posts:
+<!-- BLOG-POST-LIST:START -->
+- [Claude Code для фронтендера: полный гайд по работе в терминале](https://webtricks-master.ru/frontend/claude-code-frontend-terminal-guide/)
+- [Браузеры будущего: что нас ждёт в 2026](https://webtricks-master.ru/frontend/brauzery-budushhego-chto-nas-zhdyot-v-2026/)
+- [Micro-frontend архитектура: когда она действительно нужна?](https://webtricks-master.ru/frontend/micro-frontend-arhitektura-kogda-ona-dejstvitelno-nuzhna/)
+- [Edge-рендеринг: стоит ли переходить на серверные технологии?](https://webtricks-master.ru/frontend/edge-rendering-stoit-li-perehodit-na-servernye-tehnologii/)
+- [Как создать свою библиотеку и продвигать её?](https://webtricks-master.ru/frontend/kak-sozdat-svoyu-biblioteku-i-prodvigat-eyo/)
+<!-- BLOG-POST-LIST:END -->
+
+### My YouTube Videos:
+<!-- YOUTUBE:START -->
+- [Как найти работу джуну без опыта? пошаговая инструкция](https://www.youtube.com/watch?v=DzyKrIBHln8)
+- [Пишем список задач на React &lpar;React Hooks&rpar;](https://www.youtube.com/watch?v=XwIiBXZ41Os)
+- [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme - React Hooks](https://www.youtube.com/watch?v=VFefv_YSGfY)
+- [Учим useLayoutEffect за 6 минут - React Hooks](https://www.youtube.com/watch?v=KaaH6cra2lo)
+- [Учим useCallback за 7 минут - React Hooks](https://www.youtube.com/watch?v=AqCkWH4ws1Y)
+<!-- YOUTUBE:END -->
+
+### ⚡ Statistics:
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&langs_count=8&layout=compact" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
+<br clear="left" />
+
+### Connect with me:
+
+[<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="VladKalachev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+
+<br />
 
 [website]: https://webtricks-master.ru/
 [youtube]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
