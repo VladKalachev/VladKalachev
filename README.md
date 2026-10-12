@@ -23,6 +23,8 @@
 ### 🧰 Languages and Tools:
 <p align="left">
   <img alt="TypeScript, JavaScript, React, Angular, Node.js, NestJS, HTML, CSS, Sass, Unity, C#, Git, GitHub, Linux" src="https://skillicons.dev/icons?i=ts,js,react,angular,nodejs,nestjs,html,css,sass,unity,cs,git,github,linux&perline=8" />
+  <br />
+  <img alt="AI: ChatGPT, Claude, Gemini, Grok, DeepSeek, Qwen, Mistral, Perplexity" src="assets/ai-tools.svg" />
 </p>
 
 ### My Projects:
