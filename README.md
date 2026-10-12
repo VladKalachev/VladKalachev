@@ -11,8 +11,9 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/VladKalachev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-## I'm a FrontEnd Developer, and Teacher
+## I'm a FrontEnd Developer, Game Developer, and Teacher
 - 💪 I like to write code
+- 🎮 I make casual web games for [Yandex Games](https://yandex.ru/games/) with Unity — from game design to publishing
 - 🎉 I love to paint and play the guitar
 - 🥅 I am constantly learning new things
 - ⚡ I love writing an article for https://webtricks-master.ru/
