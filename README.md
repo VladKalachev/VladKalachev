@@ -66,8 +66,26 @@
 <!-- YOUTUBE:END -->
 
 ### My Projects:
-- [https://webtricks-master.ru](https://webtricks-master.ru/)
-- [https://mybookroom.ru](https://mybookroom.ru/)
+- [webtricks-master.ru](https://webtricks-master.ru/) — my blog about frontend development
+
+#### 🎮 My games on Yandex Games
+
+<table>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://yandex.ru/games/app/master-samurai-561028"><img src="assets/games/master-samurai.png" width="96" alt="Мастер Самурай" /></a><br />
+      <a href="https://yandex.ru/games/app/master-samurai-561028"><sub><b>Мастер Самурай</b></sub></a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://yandex.ru/games/app/grimuar-nacherti-runy-561025"><img src="assets/games/grimuar.png" width="96" alt="Гримуар — начерти руны" /></a><br />
+      <a href="https://yandex.ru/games/app/grimuar-nacherti-runy-561025"><sub><b>Гримуар — начерти руны</b></sub></a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://yandex.ru/games/app/bezumnye-gaiki-sortirovka-556208"><img src="assets/games/bezumnye-gaiki.png" width="96" alt="Безумные гайки — сортировка" /></a><br />
+      <a href="https://yandex.ru/games/app/bezumnye-gaiki-sortirovka-556208"><sub><b>Безумные гайки — сортировка</b></sub></a>
+    </td>
+  </tr>
+</table>
 
 <details>
   <summary>:zap: Statistics:</summary>
